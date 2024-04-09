@@ -15,7 +15,7 @@ class _DemoPageState extends State<DemoPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('Sakshi'),
+        child: Text('Demo'),
       ),
     );
   }
